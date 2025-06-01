@@ -8,7 +8,7 @@ sidebar_position: 6
 
 ## 参考规范
 
-参见[翻译规范](./translation#参考规范)。
+参见[翻译规范](/roles/translation#参考规范)。
 
 ## 常用工具
 
