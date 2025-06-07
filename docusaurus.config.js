@@ -18,10 +18,10 @@ const config = {
   },
 
   url: 'https://mingysub.github.io',
-  baseUrl: '/CN-Fansub-Guide/',
+  baseUrl: '/Handbook/',
 
   organizationName: 'MingYSub',
-  projectName: 'CN-Fansub-Guide',
+  projectName: 'Handbook',
   trailingSlash: true,
 
   onBrokenLinks: 'throw',
@@ -41,7 +41,7 @@ const config = {
           routeBasePath: '/',
           sidebarPath: './sidebars.js',
           editUrl:
-            'https://github.com/MingYSub/CN-Fansub-Guide/tree/main/',
+            'https://github.com/MingYSub/Handbook/tree/main/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -68,7 +68,7 @@ const config = {
             label: 'Guide',
           },
           {
-            href: 'https://github.com/MingYSub/CN-Fansub-Guide/',
+            href: 'https://github.com/MingYSub/Handbook/',
             label: 'GitHub',
             position: 'right',
           },
